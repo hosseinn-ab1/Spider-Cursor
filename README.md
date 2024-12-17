@@ -1,5 +1,5 @@
 # Spider-Cursor
-<hr>
+
 
 <!--Banner-->
 ![SPIDER GIf](spider.gif)
