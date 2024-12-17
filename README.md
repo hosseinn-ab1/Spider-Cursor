@@ -34,23 +34,23 @@ const HosseinAbbasi = {
 <div align="center">
   
 <a href="mailto:basy16b84@gmail.com" target="_blank">
-<img src="gmail.png" width=50 height=50 alt="basy16b84@gmail.com" style="margin-bottom: 5px;" />
+<img src="profile/gmail.png" width=50 height=50 alt="basy16b84@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/hosseinn_ab" target="_blank">
-<img src="twitter.png" width=50 height=50 alt="@hosseinn_ab" style="margin-bottom: 5px;" />
+<img src="profile/twitter.png" width=50 height=50 alt="@hosseinn_ab" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/hosseinn_ab" target="_blank">
-<img src="instagram.png" width=50 height=50 alt="@hosseinn_ab" style="margin-bottom: 5px;" />
+<img src="profile/instagram.png" width=50 height=50 alt="@hosseinn_ab" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/hosseinn-ab1" target="_blank">
-<img src="github.png" width=50 height=50 alt="hosseinn-ab1" style="margin-bottom: 5px;" />
+<img src="profile/github.png" width=50 height=50 alt="hosseinn-ab1" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/hosseinn_ab/" target="_blank">
-<img src="linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="profile/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
